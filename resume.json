@@ -1,0 +1,147 @@
+{
+  "basics": {
+    "name": "Romain OLIVIER",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "romainolivier42@gmail.com",
+    "phone": "0683808656",
+    "url": "https://romain325.github.io/kelkchoz_website/",
+    "summary": "Autonomous and curious software engineer with a passion for open source and learning. Experienced in fullstack development, architecture, R&D and modernizing legacy systems.",
+    "location": {
+      "countryCode": "FR",
+      "region": "Auvergne-Rhône-Alpes",
+      "city": "Lyon"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "romain-olivier-39388a198",
+        "url": "https://www.linkedin.com/in/romain-olivier-39388a198"
+      },
+      {
+        "network": "WeLoveDevs",
+        "username": "romain-olivier",
+        "url": "https://romain-olivier.welovedevs.com/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Ciril GROUP",
+      "position": "Ingénieur logiciel",
+      "url": "https://cirilgroup.com",
+      "startDate": "2024-09",
+      "summary": "Software engineer in charge of the architectural and technical evolution of legacy projects.",
+      "highlights": [
+        "Lead API design and development",
+        "Conduct R&D for new architectural approaches",
+        "Design and implement modern, maintainable, and flexible architectures",
+        "Lead deployment strategies and modernization of legacy systems"
+      ]
+    },
+    {
+      "name": "Ciril GROUP",
+      "position": "Apprentice Engineer",
+      "startDate": "2021-09",
+      "endDate": "2024-09",
+      "summary": "Fullstack development in Java and TypeScript with involvement in software architecture.",
+      "highlights": [
+        "Contributed to fullstack development (Java, TypeScript)",
+        "Participated in software architecture and technical design"
+      ]
+    },
+    {
+      "name": "Dalkia",
+      "position": "Développeur",
+      "startDate": "2021-07",
+      "endDate": "2021-07",
+      "summary": "Short-term development position at Dalkia."
+    },
+    {
+      "name": "SOeMAN",
+      "position": "Développeur web",
+      "startDate": "2021-04",
+      "endDate": "2021-06",
+      "summary": "Web development with PHP backend and JavaScript frontend."
+    },
+    {
+      "name": "Dalkia",
+      "position": "Front End Web Developer",
+      "startDate": "2020-08",
+      "endDate": "2020-08",
+      "summary": "Frontend development and optimization for web apps with constraints (e.g. 2G connection).",
+      "highlights": [
+        "Data processing and graph visualization",
+        "User testing and adaptation",
+        "Tool creation using frameworks like GSuite"
+      ]
+    },
+    {
+      "name": "Independent Project",
+      "position": "Mobile Application Developer",
+      "startDate": "2020-07",
+      "endDate": "2020-07",
+      "summary": "Developed a cross-platform mobile app using Xamarin Forms.",
+      "highlights": [
+        "Data manipulation (XLSX, PDF generation)",
+        "API integration and user need analysis"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "3iL - Ecole d'ingénieurs en informatique - Limoges / Rodez",
+      "area": "Informatique",
+      "studyType": "Diplôme d'ingénieur",
+      "startDate": "2021-09",
+      "endDate": "2024-09"
+    },
+    {
+      "institution": "Technical University of Sofia",
+      "area": "Ingénierie informatique",
+      "studyType": "Engineer's degree",
+      "startDate": "2023-09",
+      "endDate": "2023-12"
+    },
+    {
+      "institution": "Université Clermont Auvergne",
+      "area": "Informatique",
+      "studyType": "DUT Informatique",
+      "startDate": "2019-09",
+      "endDate": "2021-06"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Test of English for International Communication (TOEIC)"
+    }
+  ],
+  "skills": [
+    {
+      "name": "API Development",
+      "keywords": ["REST", "API REST", "Développement d’API"]
+    },
+    {
+      "name": "Architecture & R&D",
+      "keywords": ["Modernization", "Legacy Systems", "Deployment", "Scalable Design"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Native or Bilingual"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Native or Bilingual"
+    },
+    {
+      "language": "Japonais",
+      "fluency": "Elementary"
+    },
+    {
+      "language": "Allemand",
+      "fluency": "Limited Working"
+    }
+  ]
+}

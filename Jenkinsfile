@@ -5,7 +5,7 @@ pipeline {
           // Création image
         stage('Etape 0 stop and delete mon container') {
             steps {
-                sh 'docker rm -f cv_mezghich_cont  || true'
+                sh 'docker rm -f resume_rom1_cont  || true'
             }
             post {
                 success {
@@ -19,7 +19,7 @@ pipeline {
         // Création image
         stage('Etape 1 Création de  image docker') {
             steps {
-                sh 'docker build -t cv_mezghich .'
+                sh 'docker build -t resume_rom1 .'
             }
             post {
                 success {
@@ -34,7 +34,7 @@ pipeline {
           // Création image
         stage('Etape 2 Lancer un container de cette image') {
             steps {
-                sh 'docker run -d -p 8081:80 --name cv_mezghich_cont cv_mezghich'
+                sh 'docker run -d -p 42069:80 --name resume_rom1_cont resume_rom1'
             }
             post {
                 success {
