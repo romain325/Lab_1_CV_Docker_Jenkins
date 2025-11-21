@@ -3,7 +3,7 @@ pipeline {
        environment {
      
         // Configuration Email
-        EMAIL_RECIPIENTS = 'amine.mezghich@gmail.com'
+        EMAIL_RECIPIENTS = 'rolivier@cirilgroup.com'
         EMAIL_FROM = '"Jenkins CI/CD" <jenkins-ci@smart-it-partner.com>'
     }
       stages{
