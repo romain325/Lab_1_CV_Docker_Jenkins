@@ -19,7 +19,7 @@ pipeline {
           // Création image
         stage('Lancer un container de cette image') {
             steps {
-                sh 'docker run -d -p 8081:80 cv_mezghich_cont cv_mezghich'
+                sh 'docker run -d -p 8081:80 --name cv_mezghich_cont cv_mezghich'
             }
             post {
                 success {
